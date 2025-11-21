@@ -1,3 +1,8 @@
+**Happy movie hunting!** 🍿🎬
+
+![Preview](movie_library_desktop.png)
+![Preview](movie_library_mobile.png)
+
 # 🎬 **Real-Time Movie Dashboard using React & OMDb API** 🎬
 
 This **Real-Time Movie Dashboard** was developed using **React** and integrates the **OMDb API** to allow users to search and explore detailed information about movies. It provides an engaging user experience with responsive design, real-time search functionality, and detailed movie data fetched from a trusted movie database.
@@ -87,7 +92,4 @@ This app leverages core React principles for speed and efficiency:
 
 Whether you're a **film lover**, a **developer**, or someone learning to integrate APIs with React, this **Movie Dashboard** is a great way to explore movies and build your React development skills. It demonstrates how to create fast, data-driven applications with a modern tech stack.
 
-**Happy movie hunting!** 🍿🎬
 
-![Preview](movie_library_desktop.png)
-![Preview](movie_library_mobile.png)
